@@ -1,0 +1,2 @@
+webpackJsonp([2],{5:function(t,e){"use strict";t.exports=angular.module("app.home").controller("homeCtrl",function(){this.test=function(){alert(this.name)}}).name}});
+//# sourceMappingURL=home-ctl.chunk.e2ec69e6ed58f68ec321.js.map

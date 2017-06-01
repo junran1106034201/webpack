@@ -40,7 +40,7 @@ if (!__DEV__) {
         }
     }));
 
-    publicPath = process.env.NODE_ENV == 'test' ? 'test.domain.com' : 'www.domain.com';
+    publicPath = process.env.NODE_ENV == 'test' ? 'test.domain.com' : '';
     devtool = 'source-map';
 }
 
